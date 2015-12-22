@@ -3,12 +3,12 @@
  *
  * infine.readmore.js jQuery plugin
  * Author: @darkstars
- * Project home: 
+ * Project home: https://github.com/lerhum/readmore
  * Author URI: http://www.infine.net/
  * License: GPL version 2 or later - http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
  */
 (function ($) {
-    $.fn.readdmore = function () {
+    $.fn.readmore = function () {
         return this.each(function ()
         {
             html= $(this);

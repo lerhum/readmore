@@ -1,3 +1,3 @@
 $(document).ready(function(){
-   $('.details').readdmore(); 
+   $('.details').readmore(); 
 });
